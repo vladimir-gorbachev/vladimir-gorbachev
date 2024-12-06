@@ -18,7 +18,7 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 ### 🎨 [Fansite](#)  
 *Projet de fansite réalisé dans le cadre d'une soutenance à [La Plateforme](https://laplateforme.io/)*
 - **Technologies** : HTML, CSS  
-- **Lien** : [Fansite_project](https://vladimir-gorbachev.github.io/fansite_project/index_home.html/)(#)  
+- **Lien** : [https://vladimir-gorbachev.github.io/fansite_project/](https://vladimir-gorbachev.github.io/fansite_project/)
 
 ### 🛠️ [Tictactoe](#)  
 *Tictactoe en python réalisé dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
