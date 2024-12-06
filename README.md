@@ -18,8 +18,8 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 ### 🦾 [Portfolio](#)  
 *Première ébauche de mon portfolio créé en html css dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : HTML, CSS 
-- **Lien** : [Voir le projet](#)
-- 
+- **Lien** : [Voir le projet](https://github.com/vladimir-gorbachev/portfolio)
+
 ### 🎨 [Fansite](#)  
 *Projet de fansite réalisé dans le cadre d'une soutenance à [La Plateforme](https://laplateforme.io/)*
 - **Technologies** : HTML, CSS  
@@ -28,7 +28,7 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 ### 🛠️ [Tictactoe](#)  
 *Tictactoe en python réalisé dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : Python
-- **Lien** : [Voir le projet](https://github.com/vladimir-gorbachev/portfolio)(#)  
+- **Lien** : [Voir le projet]
 
 
 
