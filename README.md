@@ -1,9 +1,9 @@
 # Bonjour 👋
 
-## 🧑‍💻 À propos de moi  
+## 😅 À propos de moi  
 Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https://laplateforme.io/). Passionné par le développement web, je m'oriente vers le **front-end** pour créer des interfaces modernes, simples et intuitives.
 
-## 🚀 Compétences  
+## 💻 Compétences  
 - **Langages** : HTML, CSS, Python
 - **Frameworks & Bibliothèques** : JavaScript (en cours d'apprentissage)  
 - **Outils** : Git, VS Code, Figma, Obsidian
@@ -18,7 +18,7 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 ### 🎨 [Fansite](#)  
 *Projet de fansite réalisé dans le cadre d'une soutenance à [La Plateforme](https://laplateforme.io/)*
 - **Technologies** : HTML, CSS  
-- **Lien** : [https://github.com/vladimir-gorbachev/fansite_project](#)  
+- **Lien** : [https://vladimir-gorbachev.github.io/fansite_project/index_home.html](#)  
 
 ### 🛠️ [Tictactoe](#)  
 *Tictactoe en python réalisé dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
