@@ -19,17 +19,17 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 ### 🦾 [Portfolio](#)  
 *Première ébauche de mon portfolio créé en html css dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : HTML, CSS 
-- **Lien** : [Voir le projet](https://github.com/vladimir-gorbachev/portfolio/index.html)
+- **Lien** : [Voir le projet](https://vladimir-gorbachev.github.io/portfolio/)
 
 ### 🎨 [Fansite](#)  
 *Projet de fansite réalisé dans le cadre d'une soutenance à [La Plateforme](https://laplateforme.io/)*
 - **Technologies** : HTML, CSS  
-- **Lien** : [https://vladimir-gorbachev.github.io/fansite_project/](https://vladimir-gorbachev.github.io/fansite_project/index.html)
+- **Lien** : [Voir le projet](https://vladimir-gorbachev.github.io/fansite_project/index_home.html)
 
 ### 🛠️ [Tictactoe](#)  
 *Tictactoe en python réalisé dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : Python
-- **Lien** : [https://github.com/armelle-pouzioux/TicTacToe-Project.git](https://github.com/armelle-pouzioux/TicTacToe-Project.git)
+- **Lien** : [Voir le projet](https://github.com/armelle-pouzioux/TicTacToe-Project.git)
 
 
 
