@@ -31,5 +31,5 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 - **Lien** : [Voir le projet](https://github.com/armelle-pouzioux/TicTacToe-Project.git)
 
 
-[Compteur de visites](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fton-utilisateur%2Fton-repo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Compteur de visites](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fton-utilisateur%2Fton-repo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
