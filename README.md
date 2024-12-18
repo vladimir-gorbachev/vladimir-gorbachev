@@ -2,7 +2,7 @@
 
 
 ## ✍️ À propos de moi  
-Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https://laplateforme.io/). Passionné par le développement web, je m'oriente vers le **front-end** pour créer des interfaces modernes, simples et intuitives.
+Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https://laplateforme.io/). Passionné par le développement web, je pense m'orienter vers le **front-end** pour créer des interfaces modernes, simples et intuitives.
 
 ## 💻 Compétences  
 - **Langages** : HTML, CSS, Python
