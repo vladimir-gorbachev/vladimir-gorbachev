@@ -16,17 +16,17 @@ Développeur en herbe basé à **Marseille**, étudiant à [La Plateforme](https
 - Découvrir des outils comme React, TailwindCSS et Next.js  
 
 ## 📂 Projets  
-### 🦾 [Portfolio](#)  
+### 🦾 Portfolio 
 *Première ébauche de mon portfolio créé en html css dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : HTML, CSS 
 - **Lien** : [Voir le projet](https://vladimir-gorbachev.github.io/portfolio/)
 
-### 🎨 [Fansite](#)  
+### 🎨 Fansite  
 *Projet de fansite réalisé dans le cadre d'une soutenance à [La Plateforme](https://laplateforme.io/)*
 - **Technologies** : HTML, CSS  
 - **Lien** : [Voir le projet](https://vladimir-gorbachev.github.io/fansite_project/index_home.html)
 
-### 🛠️ [Tictactoe](#)  
+### 🛠️ Tictactoe 
 *Tictactoe en python réalisé dans le cadre d'un projet à la [La Plateforme](https://laplateforme.io/)*  
 - **Technologies** : Python
 - **Lien** : [Voir le projet](https://github.com/armelle-pouzioux/TicTacToe-Project.git)
